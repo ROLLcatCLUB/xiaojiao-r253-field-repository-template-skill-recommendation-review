@@ -49,6 +49,12 @@
     "https://github.com/VoltAgent/awesome-agent-skills"
   ],
   "recommended_next_artifact": "R254_PREP_FIELD_REPOSITORY_SCHEMA_AND_TEMPLATE_SLOT_CONTRACT",
+  "github_review": {
+    "repository": "https://github.com/ROLLcatCLUB/xiaojiao-r253-field-repository-template-skill-recommendation-review",
+    "raw_readme": "https://raw.githubusercontent.com/ROLLcatCLUB/xiaojiao-r253-field-repository-template-skill-recommendation-review/main/README.md",
+    "raw_gpt_review_prompt": "https://raw.githubusercontent.com/ROLLcatCLUB/xiaojiao-r253-field-repository-template-skill-recommendation-review/main/GPT_REVIEW_PROMPT_R253.md",
+    "upload_verified_commit_snapshot": "e8dce291b84a62649326f6f715c86b5a8b278fa9"
+  },
   "forbidden_actions": [
     "install external projects",
     "copy external code",
